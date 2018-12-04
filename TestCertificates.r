@@ -6,7 +6,7 @@ library(purrr)
 library(mailR)
 library(htmlTable)
 
-#Inicializamos variables de alerta y fichero de certificados.
+#Inicializamos variables de alerta y fichero de certificados
 dias_yellow <- 60
 dias_red <- 30
 urls <- read_excel("C:/dir/certificados.xlsx")
