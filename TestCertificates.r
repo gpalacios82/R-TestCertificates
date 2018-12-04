@@ -11,7 +11,6 @@ dias_yellow <- 60
 dias_red <- 30
 urls <- read_excel("C:/dir/certificados.xlsx")
 
-
 # Parametros del smtp
 from <- "from@domain.com"
 to <- c("to@domain.com","to2@domain.com")
